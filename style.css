@@ -1,0 +1,149 @@
+#main-div {
+    margin-left : 100px;
+    margin-right : 100px;
+}
+
+#img1 {
+    width: 250px;
+    height: 250px; 
+    border-radius: 200px;
+    border : 7px solid yellow;
+    border-style : dotted;
+    position : relative;
+    top : 50px;
+    left : 450px;
+}
+
+
+#div1 {
+    height : 410px;
+    background-color: rgb(83, 83, 83);
+   
+}
+
+#div2 {
+    background-color : rgb(233, 233, 233);
+    height : 45px;
+    position : relative;
+    top : 50px;
+    
+}
+
+#div3 {
+    background-color : goldenrod;
+    height : 100px;
+    position : relative;
+    margin-left : 300px;
+    margin-right : 300px;
+    bottom : 30px;
+    border-radius : 10px;
+    color : black;
+    font-size : 70px;
+    font-family :     sans-serif;
+    padding-top : 20px;
+
+}
+
+#div4 {
+    border-bottom : 1px solid grey;
+}
+
+#p1 {
+  font-size: 22px;
+  margin-bottom: 0px;
+  margin-top : 15px;
+  position : relative;
+  left : 90px;
+  font-family :   sans-serif;
+  padding-bottom: 10px;
+}
+
+#div5 {
+    display : inline-block;
+    width : 450px;
+    padding-right : 50px;
+    margin-left : 50px;
+    border-right: 2px solid grey;
+    margin-top : 50px;
+    
+}
+
+#div6 {
+    display : inline-block;
+    width : 490px;
+    margin-left : 20px;
+    padding-left : 10px;
+    margin-right : 50px;
+    margin-top : 50px;
+    
+}
+
+#icon1 {
+    display : inline-block;
+    background-color: yellow;
+    border-radius : 250px;
+
+}
+
+.icon-head {
+    display : inline-block;
+    position : relative;
+    bottom : 8px;
+    font-size: 30px;
+    left : 10px;
+    font-family :   sans-serif;
+    margin : 10px 0px;
+}
+
+.icon-para {
+    margin-top : 0px;
+    font-family :   sans-serif;
+    font-weight :500;
+    font-size: 20px;;
+}
+.profile-icon  {   
+    height : 30px;
+    border-radius: 100px;
+    padding : 5px;
+    border : 3px solid yellow;
+    border-style: dotted;
+    background-color: #585a5a;
+}
+
+.subhead {
+    text-align:center;
+    font-size: 20px;
+    margin : 10px 0px;
+}
+
+#w1 {
+    display : inline-block;
+    text-align: left;
+    width : 200px;
+    font-size : 20px;
+    font-weight :bolder;
+    margin : 0px;
+}
+
+#w2 {
+    display : inline-block;
+    text-align: right;
+    margin : 0px;
+}
+
+.listpara {
+    font-size: 17px;
+}
+
+.left-div {
+    padding-bottom: 15px;;
+}
+
+#w3 {
+    display : inline-block;
+    text-align: left;
+    width : 300px;
+    font-size : 20px;
+    font-weight :bolder;
+    margin : 0px;
+}
